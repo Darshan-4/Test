@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is b 
+=======
+This is b
+
+>>>>>>> car
++ This is merged b
